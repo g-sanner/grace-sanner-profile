@@ -6,8 +6,8 @@ main:
     url: /assets/docs/G Sanner Resume.pdf
   - title: "Research"
     url: /portfolio/
-  - title: "Teaching"
-    url: /teaching/
+  #- title: "Teaching"
+  #  url: /teaching/
   - title: "Links"
     url: /links/
   - title: "Contact"
