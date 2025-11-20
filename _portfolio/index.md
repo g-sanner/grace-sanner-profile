@@ -47,7 +47,7 @@ It matters which companies use open source for multiple reasons.
    - Having open source code creates a community around the company by encouraging good relationships with developers. Because of this community, the software is kept alive and relevant, even without input from the original maintainers.
 </details>
 
-<details markdown="2"><summary>GitHub and Markdown</summary>
+<details markdown="1"><summary>GitHub and Markdown</summary>
 
 ### What I learned about Markdown and Git and how they help me contribute to open source and improve professionally:
 This week, I explored the "Intro to Git" and "Intro to GitHub" units of Microsoft's Learning Labs. While I was already familiar with both of these topics, revisiting the basics helped remind me of best practices. I also refreshed my knowledge on branching, committing, and creating and merging pull requests.
