@@ -7,7 +7,7 @@ permalink: /portfolio/index.html
 
 # Blog Posts
 
-<details><summary>Discovering Open Source</summary>
+<details markdown="1"><summary>Discovering Open Source</summary>
 
 ### What is open source?
 Open source refers to a product, usually software, where the source code is made publically available for inspection, modification, and redistribution.
