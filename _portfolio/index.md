@@ -48,21 +48,41 @@ It matters which companies use open source for multiple reasons.
 </details>
 
 <details markdown="2"><summary>GitHub and Markdown</summary>
+
+### What I learned about Markdown and Git and how they help me contribute to open source and improve professionally:
+This week, I explored the "Intro to Git" and "Intro to GitHub" units of Microsoft's Learning Labs. While I was already familiar with both of these topics, revisiting the basics helped remind me of best practices. I also refreshed my knowledge on branching, committing, and creating and merging pull requests.
+
+These topics will help me improve professionally by allowing me to: 
+- collaborate with people around the world, regardless of timezone
+- showcase GitHub activity to potential employers
+
+### Have you used them before?
+Yes, I have used both GitHub and Markdown extensively in the past. My internship at [Ticomix](https://www.ticomix.com/) used Markdown wikis to track the technical specifications of each project, alongside other things.
+
+### What surprised you about Markdown or Git?
+I was surprised by the "rebasing" feature I learned about in the [GitGud](https://www.gitmastery.me/) activity. I had never encountered this feature before and it was interesting to learn the differences between merging and rebasing. 
+
+| Rebasing          | Merging           |
+|-------------------|-------------------|
+| Commits by merging each commit into the main brain one by one    | Commits by combining all changes into one commit and then merging   |
+| Merge conflicts may crop up for each individual commit    | Merge conflicts are presented and resolved at the same time     |
+| Effective when concerning private projects to help organize history    | Helpful in collaborative projects so that the many commits do not disturb others  |
+
+</details>
+
+<details markdown="3"><summary>Blog Title</summary>
   Blog Contents</details>
 
-<details><summary>Blog Title</summary>
+<details markdown="4"><summary>Blog Title</summary>
   Blog Contents</details>
 
-<details><summary>Blog Title</summary>
+<details markdown="5"><summary>Blog Title</summary>
   Blog Contents</details>
 
-<details><summary>Blog Title</summary>
+<details markdown="6"><summary>Blog Title</summary>
   Blog Contents</details>
 
-<details><summary>Blog Title</summary>
-  Blog Contents</details>
-
-<details><summary>Blog Title</summary>
+<details markdown="7"><summary>Blog Title</summary>
   Blog Contents</details>
 
 <h2 id="publications">Publications</h2>
