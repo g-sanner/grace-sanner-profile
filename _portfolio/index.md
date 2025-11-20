@@ -9,6 +9,8 @@ permalink: /portfolio/index.html
 
 # Research
 
+<details><summary>Toggle me!</summary>Peek a boo!</details>
+
 <h2 id="publications">Publications</h2>
 Mission III, H. Husky, "The Impact of Mascot Presence on Athletic Performance: A Tail-Wagging Analysis," 2024. Journal of Collegiate Spirit, 15(3): 101-115. Keywords: school spirit, athletic performance, mascot influence, crowd psychology. 
 
