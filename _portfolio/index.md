@@ -47,7 +47,7 @@ It matters which companies use open source for multiple reasons.
    - Having open source code creates a community around the company by encouraging good relationships with developers. Because of this community, the software is kept alive and relevant, even without input from the original maintainers.
 </details>
 
-<details><summary>Blog Title</summary>
+<details markdown="2"><summary>GitHub and Markdown</summary>
   Blog Contents</details>
 
 <details><summary>Blog Title</summary>
