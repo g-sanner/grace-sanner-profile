@@ -70,20 +70,117 @@ I was surprised by the "rebasing" feature I learned about in the [GitGud](https:
 
 </details>
 
-<details markdown="3"><summary>Blog Title</summary>
-  Blog Contents</details>
+<details markdown="1">
+  <summary>Blog Title</summary>
+  Blog Contents
+</details>
 
-<details markdown="4"><summary>Blog Title</summary>
-  Blog Contents</details>
+<details markdown="1">
+  <summary>Reveal.js</summary>
+  
+### After exploring Reveal.js, describe:
 
-<details markdown="5"><summary>Blog Title</summary>
-  Blog Contents</details>
+#### 1. How it's Structured
+The Reveal.js repository is organized into clear folders, making it easy to navigate. It holds the key files
+such as a README.md, a contributing guide, and a license file.
 
-<details markdown="6"><summary>Blog Title</summary>
-  Blog Contents</details>
+It keeps the plugins, the CSS, and the code well-organized in separate folders, making it easy for 
+contributors to work on specific parts of the project.
 
-<details markdown="7"><summary>Blog Title</summary>
-  Blog Contents</details>
+#### 2. What it's For
+Reveal.js is an open source framework targeted towards creating HTML-based presentations that are both functional and aesthetically pleasing.
+
+#### 3. What I Found Interesting About the Way the Project is Documented and Maintained
+One thing I found interesting about the way the project is documented is how they implement community
+boundaries -- they expect all issues to be bug reports and bug reports only. The Discussions board should
+be reserved for questions on how to use the software.
+
+### Could you imagine yourself contributing to this? Why or why not?
+Reveal.js represents the kind of project that I would love to contribute to -- eventually. The repository
+is well-documented, has an active community, and has plenty of range in the existing issues.
+
+However, the challenge I anticipate with working on a project such as Reveal.js is the time I must spend
+to familiarize myself with the project's architecture. While I am quite familiar with JavaScipt as a language,
+I would need to know a lot more than I currently do about the existing codebase.
+
+</details>
+
+<details markdown="1">
+  <summary>Ownership, Access, and Innovation: What I Learned About Licensing</summary>
+
+### Reflect on something you learned about open source licenses (e.g., MIT vs GPL, what’s allowed, what’s restricted).
+While pursuing my minor of Business Administration at Northern Illinois University, I took the class MGMT 217 (The Legal Environments of Business).
+This means that I went into this activity already well-versed in licensing as a concept, but was able to understand more about how it works in practice.
+
+There are three widely used open-source licenses that stand out for comparison: the MIT License, the GNU General Public License (GPL), and the 
+Berkeley Software Distribution (BSD) License.
+
+| MIT               | GPL               | BSD               |
+|-------------------|-------------------|-------------------|
+| Very permissive   | Least permissive   | Permissive    |
+| Compatible with other licenses  | Not usually compatible with permissive licenses   |  Compatible with other licenses   |
+| Copyright license  | Copyleft license   |  Copyright license   |
+
+### How did the Tetris movie shape your understanding of software ownership and distribution?
+The *Tetris* movie showed me a different view on the conversation about open source licensing. It helped highlight
+that having ownership over source code isn't enough when it comes to licensing software. It also showed just how
+much the entire world is involved in these types of negotiations.
+
+### What surprised or intrigued you about NIU’s approach to IP, patents, and tech transfer?
+Mark Hankins mentioned that NIU has an Office of General Counsel, where you can find NIU-specific rules available about the "fair use" clause of 
+copyright law.
+
+He also stated that in general, "traditional academic works" are considered the intellectual property of the Professor overseeing the research, whereas 
+the software product itself is considered property of the University.
+
+### How do you think licensing empowers or complicates open innovation?
+Licensing is a double-edged sword when it comes to innovation. Many licenses, such as the MIT and BSD licenses, help streamline innovation by
+removing typical legal barriers. These licenses allow individuals and organizations to use, modify, and redistribute code freely, often without needing to open-source 
+their own contributions. This opens the door to projects such as Python, Java, and Angular.
+
+However, more restrictive licenses, such as the GPL license, may discourage companies from open source innovation. These licenses require that open source
+
+</details>
+
+<details markdown="1">
+  <summary>MLH Global Hack Week</summary>
+
+## My experience participating in MLH Global Hack Week: what I learned, what I contributed, and who I connected with
+
+### What I learned from participating in MLH Global Hack Week
+I attended the `Supercharge Your Github Profile` session this week. Here, I learned more about developing
+my online portfolio and putting my best digital forward when it comes to first impressions with employers.
+
+I also was able to see the speaker do a pull request in real time and view other coders' GitHub profiles,
+which helped give me a standard to hold my profile to.
+
+### What contribution (or challenge) you made
+The challenge I completed was the `Star an Open Source Repository` challenge. While many other challenges caught my
+eye, such as activating various accounts now available to me, I wanted to wait until I could dedicate the
+appropriate amount of time and energy into the available walkthroughs before
+
+### Who you connected with or learned from
+I learned from Kari from MLH, who led the aforementioned session I attended. She was passionate and 
+helpful and I intend to reach out through LinkedIn in hopes of connecting with her more.
+
+### How this experience shaped your view of open source collaboration
+Participating in GHW helped reinforce certain ideas I held about open source collaboration:
+ - The Importance of Community
+    - The time I spent over the past week meeting new people and seeing them engage in projects really
+      cemented how much open source is about connecting with people and collaboration, not just code.
+ - Continuous Learning
+   - Every livestream I either attended or watched later drove home how people will never be *done*
+     learning and how open source innovation helps support this continuous welcome.
+ - All are Welcome
+   - The speakers all made it very clear: It didn't matter how much or how little experience you have,
+     everyone is welcome to contribute when it comes to open source.
+
+</details>
+
+<details markdown="1">
+  <summary>Blog Title</summary>
+  Blog Contents
+</details>
 
 <h2 id="publications">Publications</h2>
 Mission III, H. Husky, "The Impact of Mascot Presence on Athletic Performance: A Tail-Wagging Analysis," 2024. Journal of Collegiate Spirit, 15(3): 101-115. Keywords: school spirit, athletic performance, mascot influence, crowd psychology. 
