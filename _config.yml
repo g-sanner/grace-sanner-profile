@@ -7,7 +7,7 @@ url: "https://g-sanner.github.io"
 baseurl: "/grace-sanner-profile"
 repository: "g-sanner/grace-sanner-profile"
 header:
-  image: /assets/images/banner-husky.jpg
+  image: /assets/images/GSannerTA.jpeg
 
 include:
   - _pages
@@ -38,8 +38,8 @@ minimal_mistakes_skin: "contrast"
 # settings for author profile
 author:
   name   : "Grace Sanner"
-  avatar : "/assets/images/banner-husky.jpg"
-  bio    : "My name is Mission III, and I am the official Huskie mascot at Northern Illinois University."
+  avatar : "/assets/images/GSannerTA.jpeg"
+  bio    : "My name is Grace Sanner, and I am an upcoming Computer Science graduate at Northern Illinois University!"
   location: "DeKalb, Illinois"
   github : g-sanner
   linkedin: g-sanner
