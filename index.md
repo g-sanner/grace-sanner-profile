@@ -6,7 +6,7 @@ header:
 
 # Welcome​
 
-<img src="/assets/images/GZGrad.JPG" width="50%" hspace="20" align="right">
+<img src="https://github.com/g-sanner/grace-sanner-profile/blob/master/assets/images/GZGrad.JPG" width="50%" hspace="20" align="right">
 
 My name is Grace Sanner, and I am an upcoming Computer Science graduate at Northern Illinois University!
 
