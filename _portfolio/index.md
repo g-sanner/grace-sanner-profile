@@ -7,7 +7,7 @@ permalink: /portfolio/index.html
 
 # Blog Posts
 
-<details markdown="1"><summary>Discovering Open Source</summary>
+<details markdown="1"><summary>1. Discovering Open Source</summary>
 
 ### What is open source?
 Open source refers to a product, usually software, where the source code is made publically available for inspection, modification, and redistribution.
@@ -47,7 +47,7 @@ It matters which companies use open source for multiple reasons.
    - Having open source code creates a community around the company by encouraging good relationships with developers. Because of this community, the software is kept alive and relevant, even without input from the original maintainers.
 </details>
 
-<details markdown="1"><summary>GitHub and Markdown</summary>
+<details markdown="1"><summary>2. GitHub and Markdown</summary>
 
 ### What I learned about Markdown and Git and how they help me contribute to open source and improve professionally:
 This week, I explored the "Intro to Git" and "Intro to GitHub" units of Microsoft's Learning Labs. While I was already familiar with both of these topics, revisiting the basics helped remind me of best practices. I also refreshed my knowledge on branching, committing, and creating and merging pull requests.
@@ -71,12 +71,48 @@ I was surprised by the "rebasing" feature I learned about in the [GitGud](https:
 </details>
 
 <details markdown="1">
-  <summary>Blog Title</summary>
-  Blog Contents
+  <summary>3. Exploring a Repository</summary>
+
+## Selected Repository: Calendarium
+
+### How I Selected the Repository: 
+
+I chose to explore the Calendarium repository because it is an open source resource that I already utilize. Getting a peek behind the scenes of such a utility is 
+an opportunity I couldn't pass up.
+
+Obsidian is a powerful knowledge management tool that allows users to create, link, and organize notes in a flexible, non-linear way. It operates on a local 
+markdown-based vault system, enabling users to build a network of interconnected notes.
+
+<img width="267" height="257" alt="Obsidian Logo" src="https://github.com/user-attachments/assets/d3a904d5-0559-413b-b7bd-62ac3dd55290" />
+
+[Calendarium](https://github.com/javalent/calendarium) is a calendar and scheduling tool designed to help Obsidian users manage time, track events, and organize 
+schedules. It provides features like customizable views, event creation, reminders, and recurring tasks.
+
+### Structure: 
+
+The Calendarium repository is structured under the assumption that you are already familiar with the Git flow. With a minimal README and Contributing Guide, but an 
+extensive Code of Conduct, it seems to be a close-knit group of maintainers who deal with a lot of bug reports. They expect to deal with a lot of users, but do not
+make it easy on first-timers who would want to contribute.
+
+Within their README, they do have a link to a documentation site that helps non-technical users set up the Calendarium extension on their local machines. 
+
+### Community: 
+
+The community on the Calendarium repository is one of their best traits. While most of the contributions are done by the same 3 people, they articulate 
+themselves well and still document enough that an outsider could follow their decision making process. There is a healthy amount of recent activity and a 
+friendly overall tone to any responses to Issues, whether they are from maintainers or from other users.
+
+### Contribution Process: 
+
+In order to contribute to Calendarium, one must follow three simple steps:
+1. Fork the repository
+2. Make any necessary changes
+3. Submit a Pull Request
+
 </details>
 
 <details markdown="1">
-  <summary>Reveal.js</summary>
+  <summary>4. Reveal.js</summary>
   
 ### After exploring Reveal.js, describe:
 
@@ -106,7 +142,7 @@ I would need to know a lot more than I currently do about the existing codebase.
 </details>
 
 <details markdown="1">
-  <summary>Ownership, Access, and Innovation: What I Learned About Licensing</summary>
+  <summary>5. Ownership, Access, and Innovation: What I Learned About Licensing</summary>
 
 ### Reflect on something you learned about open source licenses (e.g., MIT vs GPL, what’s allowed, what’s restricted).
 While pursuing my minor of Business Administration at Northern Illinois University, I took the class MGMT 217 (The Legal Environments of Business).
@@ -143,7 +179,7 @@ However, more restrictive licenses, such as the GPL license, may discourage comp
 </details>
 
 <details markdown="1">
-  <summary>MLH Global Hack Week</summary>
+  <summary>6. MLH Global Hack Week</summary>
 
 ## My experience participating in MLH Global Hack Week: what I learned, what I contributed, and who I connected with
 
@@ -178,16 +214,52 @@ Participating in GHW helped reinforce certain ideas I held about open source col
 </details>
 
 <details markdown="1">
-  <summary>Blog Title</summary>
-  Blog Contents
+  <summary>7. Non-Code Contributions</summary>
+
+## What Counts as Contribution in Open-Source?
+
+Contributions are any meaningful addition to an open-source repository. This can include:
+1. Opening an Issue
+2. Completing an Issue
+3. Opening, or participating, in a discussion
+4. Submitting a Pull Request
+5. Adding documentation
+6. Testing existing features
+
+## My Thoughts on the Value of of Code and Non-code Contributions:
+
+Code contributions are important to the creation and upkeep of software features. Without code 
+contributions, an open-source project would likely not exist. Code contributions keep the project
+functional and, hopefully, efficient. 
+
+Non-code contributions are essential to open-source projects reaching a more diverse and larger
+population of users. These contributions often help make a project more accessible -- for example,
+adding things such as image descriptions for those who might be using screen readers. They also help
+maintain a projects community by giving key documentation and translating portions of the documentation
+for a more widespread audience.
+
+## How Diagrams Help Clarify Workflows:
+
+Diagrams help clarify workflows by offering a detailed visual alternative to an otherwise occasionally 
+confusing text description. 
+
+## Communication and Collaboration:
+
+Maintaining a welcoming environment helps encourage communication and collaboration in open-source 
+projects, which is usually the whole reason behind making a community open-source. Reaching a 
+greater circle of contributors, coders and non-coders alike, is a great perk -- one that is easy
+to lose if you become harsh or otherwise difficult to work with.
+
+## Non-Code Contributions I Found:
+
+Many of the non-code contributions I've found involve testing features and improving the accessibility of 
+the project. As I often use a screen reader myself, to help limit my eye's exposure to screen time as much
+as possible, I'll be the first to tell you that many projects don't even bother considering those who may 
+not be as able to see as the maintainer themselves.
+
 </details>
 
-<h2 id="publications">Publications</h2>
-Mission III, H. Husky, "The Impact of Mascot Presence on Athletic Performance: A Tail-Wagging Analysis," 2024. Journal of Collegiate Spirit, 15(3): 101-115. Keywords: school spirit, athletic performance, mascot influence, crowd psychology. 
-
-
-  
-<h2 id="working-papers">Working Papers</h2> 
-  
-**Job Market Paper:** Mission III, J. Trainer, "Bark vs. Bite: Comparing Auditory and Visual Mascot Techniques for Maximum Crowd Engagement." Keywords: mascot techniques, crowd psychology, auditory stimuli, visual cues, sports marketing.
-[Download File]({{ site.baseurl }}/assets/docs/MissionJMP.pdf)
+<details markdown="1">
+  <summary>8. Retrospective</summary>
+  To Be Completed
+</details>
