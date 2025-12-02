@@ -6,15 +6,10 @@ classes: wide
 permalink: /links/
 ---
 
-# Northern Illinois University Links
-- [NIU Department of Economics](https://www.niu.edu/clas/econ/)
-- [NIU Institute for the Study of the Environment, Sustainability & Energy](https://www.niu.edu/clas/ese/)
-- [Blackboard Course Management System](https://webcourses.niu.edu/)
-- [NIU University Writing Center](https://www.niu.edu/academic-support/get-help/writing-center/index.shtml)
-- [NIU Office of the Ombudsperson](https://www.niu.edu/ombuds/index.shtml)
-- [71 North Pulse (Innovation Studio Newsletter)](https://71north.beehiiv.com/)
+# Work
+- [LinkedIn](https://www.linkedin.com/in/g-sanner/)
+- [GitHub](https://github.com/g-sanner)
 
-# Other Links of Interest
-- [NIU Football](https://niuhuskies.com/sports/football)
-- [NIU Men's Basketball](https://niuhuskies.com/sports/mens-basketball)
-- [NIU Women's Basketball](https://niuhuskies.com/sports/womens-basketball)
+# School
+- [Suitable](https://app.suitable.co/institution/856/scorecard/1289320)
+- [DataCamp](https://www.datacamp.com/portfolio/z2011491)
