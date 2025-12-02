@@ -2,8 +2,10 @@
 main:
   - title: "Home"
     url: /
-  - title: "Curriculum Vitae"
+  - title: "Resume"
     url: /assets/docs/G Sanner Resume.pdf
+  - title: "Skills"
+    url: /skills
   - title: "Blog Posts"
     url: /portfolio/
   - title: "Contributions"
